@@ -23,7 +23,7 @@ Su objetivo principal es automatizar y simplificar el proceso de gestión de per
 - Notificación → El empleado recibe el resultado.
 - Registro → Todo queda almacenado en la base de datos para consulta y estadísticas.
 
-(Para conocer mas acerca de este proyecto revisar la [memoria]([src/main.py](Web-application-for-holiday-management/CGIS (1).pdf)
+(Para conocer mas acerca de este proyecto revisar la [memoria]([Web-application-for-holiday-management/CGIS (1).pdf])
 
 
 
